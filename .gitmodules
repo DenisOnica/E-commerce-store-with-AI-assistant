@@ -1,0 +1,3 @@
+[submodule "root/Frontend/OnlineStore"]
+	path = root/Frontend/OnlineStore
+	url = https://github.com/DenisOnica/OnlineStore.git
